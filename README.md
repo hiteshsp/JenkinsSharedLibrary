@@ -1,0 +1,1 @@
+This is a shared library for my learning.
